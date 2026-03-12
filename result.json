@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-03-12T06:06:52Z",
+  "updated_at": "2026-03-12T06:26:00Z",
   "ips": [
+    {
+      "ip": "104.18.5.24",
+      "port": 443,
+      "region": "HK"
+    },
     {
       "ip": "104.17.144.229",
       "port": 443,
@@ -12,24 +17,24 @@
       "region": "HK"
     },
     {
-      "ip": "104.17.139.26",
-      "port": 443,
-      "region": "HK"
-    },
-    {
       "ip": "104.18.1.82",
       "port": 443,
-      "region": "Other_Zones"
-    },
-    {
-      "ip": "162.159.192.209",
-      "port": 443,
-      "region": "Other_Zones"
+      "region": "SEA"
     },
     {
       "ip": "104.18.10.6",
       "port": 443,
-      "region": "Other_Zones"
+      "region": "SEA"
+    },
+    {
+      "ip": "104.21.3.35",
+      "port": 443,
+      "region": "LAX"
+    },
+    {
+      "ip": "162.159.192.209",
+      "port": 443,
+      "region": "LAX"
     }
   ]
 }
